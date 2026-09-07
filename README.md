@@ -19,11 +19,11 @@ This repository documents my journey of learning C programming during my first s
 
 ## Progress
 
-- [ ] Introduction
-- [ ] Variables
-- [ ] Operators
-- [ ] Conditions
-- [ ] Loops
+- [X] Introduction
+- [X] Variables
+- [X] Operators
+- [X] Conditions
+- [X] Loops
 - [ ] Functions
 - [ ] Arrays
 - [ ] Strings
